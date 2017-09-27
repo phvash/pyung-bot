@@ -2,17 +2,23 @@
 ### Example user template template
 ### Example user template
 
+<<<<<<< HEAD
 ### Python template
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
+=======
+>>>>>>> 10f55f5c8821d6948b628d734a8b0da94df6f259
 # IntelliJ project files
 .idea/*
 *.iml
 out
 gen
+<<<<<<< HEAD
 
 # vscode
 .vscode/
+=======
+>>>>>>> 10f55f5c8821d6948b628d734a8b0da94df6f259

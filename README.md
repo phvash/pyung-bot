@@ -1,10 +1,14 @@
 # Python Nigeria Slack Bot
+<<<<<<< HEAD
 > A slack  bot that automates tasks on the community team.
+=======
+> A slack  bot that automates some of the tasks on the slack community team.
+>>>>>>> 10f55f5c8821d6948b628d734a8b0da94df6f259
 
 Proposed Tasks
 --------------
 
-- New member Welcome
+- Member Welcome
 - Spam filtering and monitoring
 - Voting system(Would link this with the existing one.)
 - Message propagation
