@@ -47,6 +47,7 @@ def bad_word_filter(sentence):
     return False
 
 
+
 class Response:
 
     def __init__(self):

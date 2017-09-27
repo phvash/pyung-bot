@@ -22,3 +22,4 @@ slacker
 # others
 pyyaml
 
+slackclient
